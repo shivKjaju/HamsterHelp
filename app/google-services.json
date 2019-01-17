@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377690370042",
+    "firebase_url": "https://hamsterhelpdatabase.firebaseio.com",
+    "project_id": "hamsterhelpdatabase",
+    "storage_bucket": "hamsterhelpdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377690370042:android:c9c2f36f359b5c59",
+        "android_client_info": {
+          "package_name": "com.csce.hamstersftw.hamsterhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377690370042-52dgilu9p49spjqsm7k04ri51isenue4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csce.hamstersftw.hamsterhelp",
+            "certificate_hash": "964a21b08e7e8483822d3982b98ff253f7543c3f"
+          }
+        },
+        {
+          "client_id": "377690370042-jsg97ev48m4658nkctaogfdoe92pl35e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCROAk5_NZxlGeUvaIzNbz_9o1YQaiNYwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377690370042-jsg97ev48m4658nkctaogfdoe92pl35e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
